@@ -1,0 +1,193 @@
+
+.card {
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: #02044A;
+    background-color: #02044A!important;
+    transition: all 0.5s;
+    cursor: pointer
+}
+
+.card:hover {
+    transform: scale(1.1)
+}
+
+.heading {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center
+}
+
+.name {
+    font-size: 15px;
+    font-weight: bold
+}
+
+.square {
+    background-color:#02044A;
+    height: 30px;
+    width: 30px;
+    border-radius: 8px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.email {
+    font-size: 14px;
+    color: #ffff;
+    margin-left: 25px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: bold
+}
+.email span{
+    border-left:#02044A 3px;
+}
+
+.dummytext p {
+    font-size: 13px;
+
+    font-weight: normal;
+    color: #ffff
+}
+
+.icons i {
+    color: #FA222A;
+    margin-left: 25px
+}
+span .bodrd{
+    border-bottom: #FA222A 3px solid;
+    padding: 2px;
+}
+
+.icons span {
+    font-size: 13px;
+    font-weight: normal;
+    color: #848590
+}
+
+.square1 {
+    background-color: #cfe3fe;
+    height: 30px;
+    width: 30px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.icons1 i {
+    color: #497eea;
+    margin-left: 25px
+}
+span .bodrd1{
+    border-bottom: #497eea 3px solid;
+    padding: 2px;
+}
+
+.icons1 span {
+    font-size: 13px;
+    font-weight: normal;
+    color: #848590
+}
+
+.square2 {
+    background-color: #ffefc5;
+    height: 30px;
+    width: 30px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.icons2 i {
+    color: #ffc227;
+    margin-left: 25px
+}
+
+span .bodrd5{
+    border-bottom: #ffc227 3px solid;
+    padding: 2px;
+}
+.icons2 span {
+    font-size: 13px;
+    font-weight: normal;
+    color: #848590
+}
+
+.square5 {
+    background-color: #41cfff;
+    height: 30px;
+    width: 30px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.icons5 i {
+    color: #41cfff;
+    margin-left: 25px
+}
+span .bodrd4{
+    border-bottom: #41cfff 3px solid;
+    padding: 2px;
+}
+
+.icons5 span {
+    font-size: 13px;
+    font-weight: normal;
+    color: #848590
+}
+
+.square4 {
+    background-color: #eae6fd;
+    height: 30px;
+    width: 30px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.icons4 i {
+    color: #6a35ff;
+    margin-left: 25px
+}
+
+span .bodrd3{
+    border-bottom: #6a35ff 3px solid;
+    padding: 2px;
+}
+.icons4 span {
+    font-size: 13px;
+    font-weight: normal;
+    color: #848590
+}
+
+.square3 {
+    background-color: #fedfce;
+    height: 30px;
+    width: 30px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.icons3 i {
+    color: #ff8339;
+    margin-left: 25px
+}
+span .bodrd2{
+    border-bottom: #ff8339 3px solid;
+    padding: 2px;
+}
+
+.icons3 span {
+    font-size: 13px;
+    font-weight: normal;
+    color: #848590
+}

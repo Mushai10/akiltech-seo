@@ -1,0 +1,18 @@
+.navNews .navbar{
+   border-bottom: 2px solid black;
+ }
+ .navNews li{
+   padding-left: 30px;
+   font-weight: bolder;
+   font-size: 2rem;
+ }
+
+ .navNews{
+    
+  max-width: 1300px;
+  height: auto;
+  margin: auto;
+  background:white;
+  padding: 10px;
+    align-self: center;
+}
